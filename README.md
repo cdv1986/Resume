@@ -23,21 +23,21 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 - Ensure a logical and optimized usage of the cloud platforms (cost and performance oriented).
 
 ## More skills:
--Jenkins 
--Pipelines as code (CI/CD) -Automated ETL Workflows -Kubernetes, OpenShift 
--Cloud:   AWS, Azure, Google Cloud, OpenStack
--Containers: Docker, kaniko 
--Ansible, Terraform, Ansible, Nexus, Artifactory Git -Methodologies: Agile, Scrum. 
--Web Services: Apache , IIS , Nginx , LAMP 
--Remote Access Services: OpenSSH, RDS. 
--Windows Services: Active Directory, DNS, DHCP, RDS, WSUS, Microsoft Cluster Services. 
--Messaging Services: PostFix, Exchange 2003/2007, MDAEMON. -Security: ISA Server, Fortinet Firewall, Symantec EndPoint, Kaspersky EndPoint,  Squid, Squid Guard, Ntop. 
--Backup Tools ARCserve Backup, Shell Scripting, BackupExec. -Hypervisors: VMware ESX/VSphere, VCenter, Hyper V, Oracle VirtualBox. 
--Deploy and Provisioning Tools: HP RDP, WDS, HP Intelligent Provisioning. 
--Languages: Command Batch, PowerShell, Shell Bash, GO, Python, Maven. 
--Monitoring Tools: Nagios, Ntop , Cloud Control, VCenter, ELK. -Console: HP iLO, HP Onboard Administrator, Dell IDRAC. -Network: Cisco, HP  3COM, Fortinet. 
--OS Server: Windows Server, Oracle Linux Ubuntu, Red Hat, CentOS, MacOs 
--Mobile: Andriod, IOS
+- Jenkins 
+- Pipelines as code (CI/CD) -Automated ETL Workflows -Kubernetes, OpenShift 
+- Cloud:   AWS, Azure, Google Cloud, OpenStack
+- Containers: Docker, kaniko 
+- Ansible, Terraform, Ansible, Nexus, Artifactory Git -Methodologies: Agile, Scrum. 
+- Web Services: Apache , IIS , Nginx , LAMP 
+- Remote Access Services: OpenSSH, RDS. 
+- Windows Services: Active Directory, DNS, DHCP, RDS, WSUS, Microsoft Cluster Services. 
+- Messaging Services: PostFix, Exchange 2003/2007, MDAEMON. -Security: ISA Server, Fortinet Firewall, Symantec EndPoint, Kaspersky EndPoint,  Squid, Squid Guard, Ntop. 
+- Backup Tools ARCserve Backup, Shell Scripting, BackupExec. -Hypervisors: VMware ESX/VSphere, VCenter, Hyper V, Oracle VirtualBox. 
+- Deploy and Provisioning Tools: HP RDP, WDS, HP Intelligent Provisioning. 
+- Languages: Command Batch, PowerShell, Shell Bash, GO, Python, Maven. 
+- Monitoring Tools: Nagios, Ntop , Cloud Control, VCenter, ELK. -Console: HP iLO, HP Onboard Administrator, Dell IDRAC. -Network: Cisco, HP  3COM, Fortinet. 
+- OS Server: Windows Server, Oracle Linux Ubuntu, Red Hat, CentOS, MacOs 
+- Mobile: Andriod, IOS
 
 
 # Experience:
@@ -50,6 +50,8 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 - Dates Employe d Jul 2020 – August 2021
 - Employment Duration 1 yr 2 mos
 - LocationBuenos Aires Province, Argentina
+- Responsibilities:
+###
 • Defining and applying CI/CD standards alongside Global DevOps BBVA team for Argentinian Branch. Working with Agile squads to adopt new tools and ways of working.
 • Serve as DevOps automation architect to analyze, design, and implement strategies for CI/CD pipeline(s) while ensuring high availability on production and pre-production services.
 • Build and maintain a resilient, secure, and efficient SaaS application platform to meet established SLAs.
@@ -63,9 +65,24 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 • Facilitate engineering team with deployment infrastructure and monitoring / alerting
 • Enforcement: gitfllow, coverage, and best practices for pipelines as code.
 
--Technologies: Jenkins, Groovy pipelines, ETL pipelines, SonarQube, Artifactory, AWS, GCP, Kubernetes, EKS, Datadog, Bitbucket, Ansible, Terraform, Jira.
+- Technologies:
+### 
+• Jenkins
+• Groovy pipelines
+• SonarQube
+• Artifactory
+• AWS
+• Azure
+• GCP
+• Kubernetes
+• EKS
+• Bitbucket
+• Ansible
+• Terraform
+• Jira
 
 - Achievements:
+###
 • Migrate the biggest monoline app to the new CI/CD architecture.
 • Migrate Microservice oriented apps to cloud or on site datacenters.
 • Generating documentation for other teams.
@@ -80,6 +97,7 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 - Employment Duration1 yr 8 mos
 - Location City of Buenos Aires, Argentina
 - Responsibilities:
+###
 • AWS (administration / Deployment).
 • KUBERNETES (orchestration & implementation)
 • Docker
@@ -105,12 +123,13 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 • VMware ESXi Administration
 
 - Achievements:
--Implementation Google Auth on platform.
--Found people for my DevOps team by my own.
--Creation of the training area and path career for DevOps Team and Developers in conjunction with the CEO of the company.
--Securitization of the corporate site (implementation of https) for all the public and services.
--Generate the space to have weekly meetings with the entire company in conjunction with the company's CEO
--perform a technical paper researching vault technologies for a multi-bank implementation.
+### 
+• Implementation Google Auth on platform.
+• Found people for my DevOps team by my own.
+• Creation of the training area and path career for DevOps Team and Developers in conjunction with the CEO of the company.
+• Securitization of the corporate site (implementation of https) for all the public and services.
+• Generate the space to have weekly meetings with the entire company in conjunction with the company's CEO
+• perform a technical paper researching vault technologies for a multi-bank implementation.
 
 
 ## SRE:
@@ -119,6 +138,7 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 - Employment Duration 7 yrs 8 mos
 - Location Ciudad Autonoma De Buenos Aires
 - Responsibilities:
+###
 • Infrastructure implementation (Virtual, Container or physically )
 • Ansible , GIT , Jenkins, Docker
 • System Administrator (WINDOWS / LINUX)
@@ -131,6 +151,7 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 • Backup And recovery (Scripting and automation)
 
 - Accomplishment:
+###
 • Implementation of Monitoring Systems for critical services or applications: analize all the logical faults points, Services, Applications and Networking components.
 • Creation and implementation:
 • AD Server, GPO for security,
@@ -145,6 +166,7 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 - Dates Employed Jan 2013 – Dec 2013
 - Employment Duration 12 mos
 - Responsibilities:
+###
 • SQL / PL SQL scripting , Automation. Information migration, DATA Normalization
 • Application support.
 
@@ -154,6 +176,7 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 - Dates Employed Apr 2019 – Jun 2019
 - Location Buenos Aires, Buenos Aires Province, Argentina
 - Responsibilities:
+###
 • Member of DevOps team to design, write document and deliver software
 to improve product availability, scalability and performance. 
 • Automate the installation and upkeep of build and deploy tools and dependencies
@@ -170,16 +193,18 @@ Terraform, Jira,, ELK, Ansible
 - Dates Employed Sep 2012 – Feb 2013
 - Employment Duration6 mos
 - Responsibilities:
+###
 • Technical support
 • Active directory Management
 • Hardware Repair
 
-## System Administrator: Windows / Linux
+## System Administrator: Windows / Linux : 
 - Company Name Grupo Pujol Figueras
 - Dates Employed Jan 2008 – Feb 2012
 - Employment Duration 4 yrs 2 mos
 - Responsibilities:
-Network and Servers Administration
+###
+• Network and Servers Administration
 • Unix Administration
 • Windows Server Administration
 • Networking
@@ -190,13 +215,15 @@ Network and Servers Administration
 • After passing through the support sector, Go to Server and operating system support.
 
 
-## Help Desk Technician
+## Help Desk Technician:
 - Company Name CEITECH
 - Dates Employed 2007 – 2008
 - Employment Duration 1 yr
 - Responsibilities:
+###
 • Technical support to Arnet ISP
 - Accomplishment:
+###
 • Succes at improving internal communication of the calls reception work team, and so results improved as well.
 
 
