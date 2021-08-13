@@ -46,10 +46,10 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 ### Working as DevOps architect on BBVA international bank.
 [![Alt text](images/BBVA.JPG)](https://www.youtube.com/watch?v=U2oG0eNsXOs)
 ##
-Company Name BBVA Contract
-Dates EmployedJul 2020 – August 2021
-Employment Duration1 yr 2 mos
-LocationBuenos Aires Province, Argentina
+- Company Name BBVA Contract
+- Dates Employe d Jul 2020 – August 2021
+- Employment Duration 1 yr 2 mos
+- LocationBuenos Aires Province, Argentina
 • Defining and applying CI/CD standards alongside Global DevOps BBVA team for Argentinian Branch. Working with Agile squads to adopt new tools and ways of working.
 • Serve as DevOps automation architect to analyze, design, and implement strategies for CI/CD pipeline(s) while ensuring high availability on production and pre-production services.
 • Build and maintain a resilient, secure, and efficient SaaS application platform to meet established SLAs.
@@ -63,48 +63,48 @@ LocationBuenos Aires Province, Argentina
 • Facilitate engineering team with deployment infrastructure and monitoring / alerting
 • Enforcement: gitfllow, coverage, and best practices for pipelines as code.
 
-Technologies: Jenkins, Groovy pipelines, ETL pipelines, SonarQube, Artifactory, AWS, GCP, Kubernetes, EKS, Datadog, Bitbucket, Ansible, Terraform, Jira.
+-Technologies: Jenkins, Groovy pipelines, ETL pipelines, SonarQube, Artifactory, AWS, GCP, Kubernetes, EKS, Datadog, Bitbucket, Ansible, Terraform, Jira.
 
-Achievements:
--Migrate the biggest monoline app to the new CI/CD architecture.
--Migrate Microservice oriented apps to cloud or on site datacenters.
--Generating documentation for other teams.
-- Analyze the company apps and the CI /CD Life cycle time and cost to improve the way to made things and accomplish regulations for the central bank from Argentina.
--Create the local pipeline for Argentina and administrate the Jenkins cluster.
+- Achievements:
+• Migrate the biggest monoline app to the new CI/CD architecture.
+• Migrate Microservice oriented apps to cloud or on site datacenters.
+• Generating documentation for other teams.
+• Analyze the company apps and the CI /CD Life cycle time and cost to improve the way to made things and accomplish regulations for the central bank from Argentina.
+• Create the local pipeline for Argentina and administrate the Jenkins cluster.
 
 
 
 ## DevOps Engineer Team Lead & Pre-sale Engineer:
-Company Name AW Software S.R.L. Full-time
-Dates Employed Jan 2020 – August 2021
-Employment Duration1 yr 8 mos
-LocationCity of Buenos Aires, Argentina
-Responsibilities:
--AWS (administration / Deployment).
--KUBERNETES (orchestration & implementation)
--Docker
--Infrastructure as code (IaC)
--Atlassian Suite
--Hybrid Cloud Implementation
--Technology Research
--AWS Cost Optimization.
--Maven and Jenkins CI/CD.
-Cucumber Testing
--JaCoCO ( Java Coverage)
--Scripting on Terraform, Ansible, Jenkins.
--GIT / Bitbucket
--Go Lang Programming.
--System Administrator (WINDOWS / LINUX).
--Network Administration (CISCO / HP / LINUX).
--Security (Squid squid-guard HTTPS / Nginx).
--Web Servers (Apache Nginx).
--PF-SENSE / OPENVPN.
--Monitoring system for critical services.
--Bash Scripting (So Routines, CRUD users and Permissions, Service control, etc.).
--Backup And recovery (Scripting and automation).
--VMware ESXi Administration
+- Company Name AW Software S.R.L. Full-time
+- Dates Employed Jan 2020 – August 2021
+- Employment Duration1 yr 8 mos
+- Location City of Buenos Aires, Argentina
+- Responsibilities:
+• AWS (administration / Deployment).
+• KUBERNETES (orchestration & implementation)
+• Docker
+• Infrastructure as code (IaC)
+• Atlassian Suite
+• Hybrid Cloud Implementation
+• Technology Research
+• AWS Cost Optimization.
+• Maven and Jenkins CI/CD.
+• Cucumber Testing
+• JaCoCO ( Java Coverage)
+• Scripting on Terraform, Ansible, Jenkins.
+• GIT / Bitbucket
+• Go Lang Programming.
+• System Administrator (WINDOWS / LINUX).
+• Network Administration (CISCO / HP / LINUX).
+• Security (Squid squid-guard HTTPS / Nginx).
+• Web Servers (Apache Nginx).
+• PF-SENSE / OPENVPN.
+• Monitoring system for critical services.
+• Bash Scripting (So Routines, CRUD users and Permissions, Service control, etc.).
+• Backup And recovery (Scripting and automation).
+• VMware ESXi Administration
 
-Achievements:
+- Achievements:
 -Implementation Google Auth on platform.
 -Found people for my DevOps team by my own.
 -Creation of the training area and path career for DevOps Team and Developers in conjunction with the CEO of the company.
@@ -114,90 +114,90 @@ Achievements:
 
 
 ## SRE:
-Company Name Argentine Federal Police
-Dates Employed Dec 2013 – Jul 2021
-Employment Duration 7 yrs 8 mos
-Location Ciudad Autonoma De Buenos Aires
-Responsibilities:
--Infrastructure implementation (Virtual, Container or physically )
--Ansible , GIT , Jenkins, Docker
--System Administrator (WINDOWS / LINUX)
--Network Administration (CISCO / HP / LINUX)
--Security (Squid squid-guard HTTPS )
--Web Servers (Apache Ngix IIS)
--PF-SENSE
--Monitoring system for cricital services (Nagios)
--Bash Scripting (So Routines, CRUD users and Permissions, Service control, etc.)
-Backup And recovery (Scripting and automation)
+- Company Name Argentine Federal Police
+- Dates Employed Dec 2013 – Jul 2021
+- Employment Duration 7 yrs 8 mos
+- Location Ciudad Autonoma De Buenos Aires
+- Responsibilities:
+• Infrastructure implementation (Virtual, Container or physically )
+• Ansible , GIT , Jenkins, Docker
+• System Administrator (WINDOWS / LINUX)
+• Network Administration (CISCO / HP / LINUX)
+• Security (Squid squid-guard HTTPS )
+• Web Servers (Apache Ngix IIS)
+• PF-SENSE
+• Monitoring system for cricital services (Nagios)
+• Bash Scripting (So Routines, CRUD users and Permissions, Service control, etc.)
+• Backup And recovery (Scripting and automation)
 
-Accomplishment:
--Implementation of Monitoring Systems for critical services or applications: analize all the logical faults points, Services, Applications and Networking components.
--Creation and implementation:
--AD Server, GPO for security,
-- Nginx Squid, Squid Guard, PF-SENSE, Reverse Proxy, HTTPS implementation.
--Security Policy appliances
--AWS implementation
--Docker on bare metal implementations.
--Ntop implementation for visibility.
+- Accomplishment:
+• Implementation of Monitoring Systems for critical services or applications: analize all the logical faults points, Services, Applications and Networking components.
+• Creation and implementation:
+• AD Server, GPO for security,
+• Nginx Squid, Squid Guard, PF-SENSE, Reverse Proxy, HTTPS implementation.
+• Security Policy appliances
+• AWS implementation
+• Docker on bare metal implementations.
+• Ntop implementation for visibility.
 
 ## SQL Developer:
-Company Name Argentine Federal Police
-Dates Employed Jan 2013 – Dec 2013
-Employment Duration 12 mos
-SQL / PL SQL scripting , Automation. Information migration, DATA Normalization
-Application support.
+- Company Name Argentine Federal Police
+- Dates Employed Jan 2013 – Dec 2013
+- Employment Duration 12 mos
+- Responsibilities:
+• SQL / PL SQL scripting , Automation. Information migration, DATA Normalization
+• Application support.
 
 
 ## DevOps Engineer:
-Company Name Semperti Full-time
-Dates Employed Apr 2019 – Jun 2019
-LocationBuenos Aires, Buenos Aires Province, Argentina
-Member of DevOps team to design, write document and deliver software
-to improve product availability, scalability and performance. Automate the
-installation and upkeep of build and deploy tools and dependencies
-Evaluate current build, release and hosting infrastructure and implement
+- Company Name Semperti Full-time
+- Dates Employed Apr 2019 – Jun 2019
+- Location Buenos Aires, Buenos Aires Province, Argentina
+- Responsibilities:
+• Member of DevOps team to design, write document and deliver software
+to improve product availability, scalability and performance. 
+• Automate the installation and upkeep of build and deploy tools and dependencies
+• Evaluate current build, release and hosting infrastructure and implement
 enhancements as required defined processes, techniques, architectures
 and practices ensuring the monitoring, reliability and performance of
 company products and services Support and administration: AWS,
 Docker, Kubernetes, Ansible, Jenkins, Redhat Openshift,
 Terraform, Jira,, ELK, Ansible
-working as agile team member.
+• working as agile team member.
 
 ## IT Support:
-Company Name Yara (Ecosistemas)
-Dates Employed Sep 2012 – Feb 2013
-Employment Duration6 mos
-Responsibilities:
--Technical support
--Active directory Management
--Hardware Repair
+- Company Name Yara (Ecosistemas)
+- Dates Employed Sep 2012 – Feb 2013
+- Employment Duration6 mos
+- Responsibilities:
+• Technical support
+• Active directory Management
+• Hardware Repair
 
 ## System Administrator: Windows / Linux
-
-System Administrator
-Company Name Grupo Pujol Figueras
-Dates Employed Jan 2008 – Feb 2012
-Employment Duration4 yrs 2 mos
-Local and remote:
--Network and Servers Administration
--Unix Administration
--Windows Server Administration
--Networking
--Mcafee EPO Administration and Deployment
--Backup Management and Coordination
--HP support partner ( Servers Hardware Support Services)
-
-Accomplishment:
--After passing through the support sector, Go to Server and operating system support.
+- Company Name Grupo Pujol Figueras
+- Dates Employed Jan 2008 – Feb 2012
+- Employment Duration 4 yrs 2 mos
+- Responsibilities:
+Network and Servers Administration
+• Unix Administration
+• Windows Server Administration
+• Networking
+• Mcafee EPO Administration and Deployment
+• Backup Management and Coordination
+• HP support partner ( Servers Hardware Support Services)
+- Accomplishment:
+• After passing through the support sector, Go to Server and operating system support.
 
 
 ## Help Desk Technician
-Company Name CEITECH
-Dates Employed 2007 – 2008
-Employment Duration 1 yr
--Technical support to Arnet ISP
-Accomplishment:
-Succes at improving internal communication of the calls reception work team, and so results improved as well.
+- Company Name CEITECH
+- Dates Employed 2007 – 2008
+- Employment Duration 1 yr
+- Responsibilities:
+• Technical support to Arnet ISP
+- Accomplishment:
+• Succes at improving internal communication of the calls reception work team, and so results improved as well.
 
 
 # Resume: Christian daniel valls
