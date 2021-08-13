@@ -46,11 +46,11 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 ### Working as DevOps architect on BBVA international bank.
 [![Alt text](images/BBVA.JPG)](https://www.youtube.com/watch?v=U2oG0eNsXOs)
 ##
-- Company Name BBVA Contract
-- Dates Employe d Jul 2020 – August 2021
-- Employment Duration 1 yr 2 mos
-- LocationBuenos Aires Province, Argentina
-- Responsibilities:
+### - Company Name BBVA Contract
+### - Dates Employe d Jul 2020 – August 2021
+### - Employment Duration 1 yr 2 mos
+### - LocationBuenos Aires Province, Argentina
+### - Responsibilities:
 ###
 • Defining and applying CI/CD standards alongside Global DevOps BBVA team for Argentinian Branch. Working with Agile squads to adopt new tools and ways of working.
 • Serve as DevOps automation architect to analyze, design, and implement strategies for CI/CD pipeline(s) while ensuring high availability on production and pre-production services.
@@ -65,7 +65,7 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 • Facilitate engineering team with deployment infrastructure and monitoring / alerting
 • Enforcement: gitfllow, coverage, and best practices for pipelines as code.
 
-- Technologies:
+### - Technologies:
 ### 
 • Jenkins
 • Groovy pipelines
@@ -81,7 +81,7 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 • Terraform
 • Jira
 
-- Achievements:
+### - Achievements:
 ###
 • Migrate the biggest monoline app to the new CI/CD architecture.
 • Migrate Microservice oriented apps to cloud or on site datacenters.
@@ -92,11 +92,11 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 
 
 ## DevOps Engineer Team Lead & Pre-sale Engineer:
-- Company Name AW Software S.R.L. Full-time
-- Dates Employed Jan 2020 – August 2021
-- Employment Duration1 yr 8 mos
-- Location City of Buenos Aires, Argentina
-- Responsibilities:
+### - Company Name AW Software S.R.L. Full-time
+### - Dates Employed Jan 2020 – August 2021
+### - Employment Duration1 yr 8 mos
+### - Location City of Buenos Aires, Argentina
+### - Responsibilities:
 ###
 • AWS (administration / Deployment).
 • KUBERNETES (orchestration & implementation)
@@ -122,7 +122,7 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 • Backup And recovery (Scripting and automation).
 • VMware ESXi Administration
 
-- Achievements:
+### - Achievements:
 ### 
 • Implementation Google Auth on platform.
 • Found people for my DevOps team by my own.
@@ -133,11 +133,11 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 
 
 ## SRE:
-- Company Name Argentine Federal Police
-- Dates Employed Dec 2013 – Jul 2021
-- Employment Duration 7 yrs 8 mos
-- Location Ciudad Autonoma De Buenos Aires
-- Responsibilities:
+### - Company Name Argentine Federal Police
+### - Dates Employed Dec 2013 – Jul 2021
+### - Employment Duration 7 yrs 8 mos
+### - Location Ciudad Autonoma De Buenos Aires
+### - Responsibilities:
 ###
 • Infrastructure implementation (Virtual, Container or physically )
 • Ansible , GIT , Jenkins, Docker
@@ -150,7 +150,7 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 • Bash Scripting (So Routines, CRUD users and Permissions, Service control, etc.)
 • Backup And recovery (Scripting and automation)
 
-- Accomplishment:
+### - Accomplishment:
 ###
 • Implementation of Monitoring Systems for critical services or applications: analize all the logical faults points, Services, Applications and Networking components.
 • Creation and implementation:
@@ -162,20 +162,20 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 • Ntop implementation for visibility.
 
 ## SQL Developer:
-- Company Name Argentine Federal Police
-- Dates Employed Jan 2013 – Dec 2013
-- Employment Duration 12 mos
-- Responsibilities:
+### - Company Name Argentine Federal Police
+### - Dates Employed Jan 2013 – Dec 2013
+### - Employment Duration 12 mos
+### - Responsibilities:
 ###
 • SQL / PL SQL scripting , Automation. Information migration, DATA Normalization
 • Application support.
 
 
 ## DevOps Engineer:
-- Company Name Semperti Full-time
-- Dates Employed Apr 2019 – Jun 2019
-- Location Buenos Aires, Buenos Aires Province, Argentina
-- Responsibilities:
+### - Company Name Semperti Full-time
+### - Dates Employed Apr 2019 – Jun 2019
+### - Location Buenos Aires, Buenos Aires Province, Argentina
+### - Responsibilities:
 ###
 • Member of DevOps team to design, write document and deliver software
 to improve product availability, scalability and performance. 
@@ -189,20 +189,20 @@ Terraform, Jira,, ELK, Ansible
 • working as agile team member.
 
 ## IT Support:
-- Company Name Yara (Ecosistemas)
-- Dates Employed Sep 2012 – Feb 2013
-- Employment Duration6 mos
-- Responsibilities:
+### - Company Name Yara (Ecosistemas)
+### - Dates Employed Sep 2012 – Feb 2013
+### - Employment Duration6 mos
+### - Responsibilities:
 ###
 • Technical support
 • Active directory Management
 • Hardware Repair
 
 ## System Administrator: Windows / Linux : 
-- Company Name Grupo Pujol Figueras
-- Dates Employed Jan 2008 – Feb 2012
-- Employment Duration 4 yrs 2 mos
-- Responsibilities:
+### - Company Name Grupo Pujol Figueras
+### - Dates Employed Jan 2008 – Feb 2012
+### - Employment Duration 4 yrs 2 mos
+### - Responsibilities:
 ###
 • Network and Servers Administration
 • Unix Administration
@@ -216,13 +216,13 @@ Terraform, Jira,, ELK, Ansible
 
 
 ## Help Desk Technician:
-- Company Name CEITECH
-- Dates Employed 2007 – 2008
-- Employment Duration 1 yr
-- Responsibilities:
+### - Company Name CEITECH
+### - Dates Employed 2007 – 2008
+### - Employment Duration 1 yr
+### - Responsibilities:
 ###
 • Technical support to Arnet ISP
-- Accomplishment:
+### - Accomplishment:
 ###
 • Succes at improving internal communication of the calls reception work team, and so results improved as well.
 
