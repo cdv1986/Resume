@@ -1,4 +1,4 @@
-# Resume: Christian daniel valls
+# Resume: Christian Daniel Valls
 Contractor DevOps Architect // SRE // TeamLeader // PM
 ## Author :
 Christian Daniel Valls 
@@ -45,7 +45,8 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 ## DevOps Architect:
 ### Working as DevOps architect on BBVA international bank.
 [![Alt text](images/BBVA.JPG)](https://www.youtube.com/watch?v=U2oG0eNsXOs)
-BBVA Contract
+##
+Company Name BBVA Contract
 Dates EmployedJul 2020 – August 2021
 Employment Duration1 yr 2 mos
 LocationBuenos Aires Province, Argentina
@@ -74,7 +75,7 @@ Achievements:
 
 
 ## DevOps Engineer Team Lead & Pre-sale Engineer:
-AW Software S.R.L. Full-time
+Company Name AW Software S.R.L. Full-time
 Dates Employed Jan 2020 – August 2021
 Employment Duration1 yr 8 mos
 LocationCity of Buenos Aires, Argentina
@@ -113,8 +114,8 @@ Achievements:
 
 
 ## SRE:
-Argentine Federal Police
-Dec 2013 – Jul 2021
+Company Name Argentine Federal Police
+Dates Employed Dec 2013 – Jul 2021
 Employment Duration 7 yrs 8 mos
 Location Ciudad Autonoma De Buenos Aires
 Responsibilities:
@@ -140,16 +141,16 @@ Accomplishment:
 -Ntop implementation for visibility.
 
 ## SQL Developer:
-Argentine Federal Police
-Jan 2013 – Dec 2013
+Company Name Argentine Federal Police
+Dates Employed Jan 2013 – Dec 2013
 Employment Duration 12 mos
 SQL / PL SQL scripting , Automation. Information migration, DATA Normalization
 Application support.
 
 
 ## DevOps Engineer:
-Semperti Full-time
-Dates EmployedApr 2019 – Jun 2019
+Company Name Semperti Full-time
+Dates Employed Apr 2019 – Jun 2019
 LocationBuenos Aires, Buenos Aires Province, Argentina
 Member of DevOps team to design, write document and deliver software
 to improve product availability, scalability and performance. Automate the
@@ -163,8 +164,8 @@ Terraform, Jira,, ELK, Ansible
 working as agile team member.
 
 ## IT Support:
-Company NameYara (Ecosistemas)
-Dates EmployedSep 2012 – Feb 2013
+Company Name Yara (Ecosistemas)
+Dates Employed Sep 2012 – Feb 2013
 Employment Duration6 mos
 Responsibilities:
 -Technical support
@@ -175,7 +176,7 @@ Responsibilities:
 
 System Administrator
 Company Name Grupo Pujol Figueras
-Dates EmployedJan 2008 – Feb 2012
+Dates Employed Jan 2008 – Feb 2012
 Employment Duration4 yrs 2 mos
 Local and remote:
 -Network and Servers Administration
