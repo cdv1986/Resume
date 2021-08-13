@@ -24,7 +24,7 @@ Experienced in Information Technology Infrastructure with 20 years on IT  histor
 
 ## More skills:
 - Jenkins 
-- Pipelines as code (CI/CD) -Automated ETL Workflows -Kubernetes, OpenShift 
+- Pipelines as code (CI/CD) -Kubernetes, OpenShift 
 - Cloud:   AWS, Azure, Google Cloud, OpenStack
 - Containers: Docker, kaniko 
 - Ansible, Terraform, Ansible, Nexus, Artifactory Git -Methodologies: Agile, Scrum. 
