@@ -9,17 +9,17 @@ Christian Daniel Valls
 
 
 ## Skills: 
-• DevOps/ SRE / 
-• Leadership 
-• Scrum Master 
-• Agile Coach
-• PM 
-• Clouds 
-• Sales 
-• Purchasing 
-• Regulatory compliance information security
-•  Process improvements 
-•  Ethical Hacking 
+## • DevOps/ SRE / 
+## • Leadership 
+## • Scrum Master 
+## • Agile Coach
+## • PM 
+## • Clouds 
+## • Sales 
+## • Purchasing 
+## • Regulatory compliance information security
+## •  Process improvements 
+## •  Ethical Hacking 
 
 ## Summary:
 Experienced in Information Technology Infrastructure with 20 years on IT  history of working in the services' industry, financial Services Industry and Armed Forces. As a DevOps Team Leader, Skilled in: Management and team leadership, communication company goals, safety practices, and project management. Cloud Computing, Containers, k8s,  CI/ CD on Jenkins Pipelines as code, ETL Pipelines,  Linux servers, Automation, Code reviewing, Bash Scripting, Secure testing, network administration, Technical Support, Database Security, and Oracle Database Administration. Monitoring system implementation, automated routines scripting and SOC operations.
